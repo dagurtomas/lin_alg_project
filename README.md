@@ -1,0 +1,1 @@
+Template for the linear algebra project in the University of Copenhagen "førsteårsprojekt" course. 
